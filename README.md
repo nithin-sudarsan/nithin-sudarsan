@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/nithin-sudarsan">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=nithin-sudarsan&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-sudarsan&layout=compact&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
+</a>
