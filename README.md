@@ -32,6 +32,27 @@ Here are some ideas to get you started:
 </div>
 &nbsp;
 
+## My Projects
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Linear-Regression-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Linear-Regression-from-scratch&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+      <td>
+      <a href="https://github.com/nithin-sudarsan/Malaria-Cell-Detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Malaria-Cell-Detector&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Handwritten-Digit-Recognizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Handwritten-Digit-Recognizer&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+      <td>
+      <a href="https://github.com/nithin-sudarsan/javelin-throw-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=javelin-throw-analysis&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+  </tr>
+  
+</table>
+
 Most of my repositories are personal projects. A part of them academic assignments. Feel free to look and send suggestions! 😄
 <br><br>
 
@@ -48,21 +69,21 @@ Most of my repositories are personal projects. A part of them academic assignmen
 <h3 align="center"> Contact</h3>
 
 <div align="center">
+    
+<p align="center">
+  <a href = "https://www.linkedin.com/in/nithin-sudarsan"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Nithin_016"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "mailto:nithinsudarsan740@gmailcom"><img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/2x/external-Gmail-logos-and-brands-those-icons-lineal-color-those-icons.png"/></a>
+</p>
 
-
-<a href="https://www.linkedin.com/in/nithin-sudarsan/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
-</a>
-
-<a href="mailto:nithinsudarsan740@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
-</a>
 <div>
-<!-- <a href="https://oliverids.github.io/my-portfolio/">
-    <img align="center" src=""/>
-</a> -->
+
 </div>
 </div>
+
+
+
+
 <!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://github-readme-stats.vercel.app/api?username=nithin-sudarsan&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=111827&hide_border=true&show_icons=true" alt="Nithin's GitHub stats" /></a>
 <!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-sudarsan&stroke=ffffff&background=111827&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 <!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://activity-graph.herokuapp.com/graph?username=nithin-sudarsan&bg_color=111827&color=ffffff&line=F97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
