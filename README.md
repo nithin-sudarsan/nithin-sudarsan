@@ -1,70 +1,84 @@
 
-
-<!--
-**nithin-sudarsan/nithin-sudarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hello 👋, I'm Nithin!
 
-
-📚 Computer Science Student at Dayananda Sagar College of Engineering, Bangalore.
+👨‍💻 Techie from Bangalore, currently working at [Perfios](perfios.com) as a SDE
 
 ### Languages and Technologies
-- **Languages known:** Python, C++, C, Java.
-- **Working with:** Machine learning, Deeplearining, Computer Networks.
-- **I'm Studying:** Data Structures and Algorithm
-- **Interested in:** Competitive programming 
-
-<div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-&nbsp;
-
-## My Projects
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/nithin-sudarsan/Linear-Regression-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Linear-Regression-from-scratch&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-      <td>
-      <a href="https://github.com/nithin-sudarsan/Malaria-Cell-Detector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Malaria-Cell-Detector&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/nithin-sudarsan/Handwritten-Digit-Recognizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Handwritten-Digit-Recognizer&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-      <td>
-      <a href="https://github.com/nithin-sudarsan/javelin-throw-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=javelin-throw-analysis&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-  </tr>
-  
-</table>
-
-Most of my repositories are personal projects. A part of them academic assignments. Feel free to look and send suggestions! 😄
-<br><br>
-
+- **Languages known:** Python, C++, Scala, R
+- **Working with:** Machine learning, Deep learining, Bank Statement Analysis (BSA)
+- **I'm Studying:** Preping for TOEFL / IELTS
+- **Interested in:** Deep learning architectures
 
 &nbsp;
 
 <div align="center">
-<a href="https://github.com/nithin-sudarsan">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=nithin-sudarsan&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-sudarsan&layout=compact&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
-</a>
+  <a href="https://github.com/nithin-sudarsan">
+      <img src="https://github-stats-alpha.vercel.app/api?username=nithin-sudarsan&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
 </div>
+
+&nbsp;
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+
+&nbsp;
+
+## Projects worth taking a peek at 👇
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Javelin-throw-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Javelin-throw-analysis&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Convolutional-neural-network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=convolutional-neural-network&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Linear-Regression-from-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Linear-Regression-from-scratch&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/patient-monitoring-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=patient-monitoring-system&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/api-plyground"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=api-playground&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/nithin-sudarsan/Data-Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nithin-sudarsan&repo=Data-mapper&bg_color=23282E&text_color=9f9f9f" /></a>
+    </td>
+  </tr>
+</table>
+
+
+<div>
+<h2>My Github Stats</h2>
+<a href="https://github.com/nithin-sudarsan">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithin-sudarsan&theme=dracula">
+</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nithin-sudarsan">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithin-sudarsan&theme=dracula">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nithin-sudarsan">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithin-sudarsan&theme=dracula">
+      </a>
+    </td>
+  </tr>
+</table>
+
+Most of my repositories are personal projects. A part of them academic assignments. Feel free to look and send suggestions or hit me up for fun! 😉
+<br>
 
 <h3 align="center"> Contact</h3>
 
@@ -76,18 +90,5 @@ Most of my repositories are personal projects. A part of them academic assignmen
 <a href = "mailto:nithinsudarsan740@gmailcom"><img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/2x/external-Gmail-logos-and-brands-those-icons-lineal-color-those-icons.png"/></a>
 </p>
 
-<div>
-
 </div>
 </div>
-
-
-
-
-<!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://github-readme-stats.vercel.app/api?username=nithin-sudarsan&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=111827&hide_border=true&show_icons=true" alt="Nithin's GitHub stats" /></a>
-<!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithin-sudarsan&stroke=ffffff&background=111827&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-<!-- <a href="http://www.github.com/nithin-sudarsan"><img src="https://activity-graph.herokuapp.com/graph?username=nithin-sudarsan&bg_color=111827&color=ffffff&line=F97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-<!-- <a href="https://github.com/nithin-sudarsan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-sudarsan&langs_count=10&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=111827&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> --> 
-
-
-
