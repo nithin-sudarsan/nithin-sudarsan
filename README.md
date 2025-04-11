@@ -1,12 +1,12 @@
 
 ## Hello 👋, I'm Nithin!
 
-👨‍💻 Techie from Bangalore, currently working at [Perfios](perfios.com) as a SDE
+👨‍💻 Techie from [Mangalore](https://maps.app.goo.gl/w9ZyAdK6rTaXvmh58), worked as a SDE at [Perfios](perfios.com) for a little more than a year and half. I am now now heading a path towards pursuing master's in Artificial Intelligence and explore the domain deeper.
 
 ### Languages and Technologies
 - **Languages known:** Python, C++, Scala, R
 - **Working with:** Machine learning, Deep learining, Bank Statement Analysis (BSA)
-- **I'm Studying:** Preping for TOEFL / IELTS
+- **I'm Studying:** Preping for TOEFL / IELTS and learning ![torch](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
 - **Interested in:** Deep learning architectures
 
 &nbsp;
